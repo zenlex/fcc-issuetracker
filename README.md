@@ -4,4 +4,4 @@
 ## Demo
 Currently hosted on replit [here](https://fccqa-issuetracker.zenlex.repl.co/)
 
-
+Project spec [here](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)
