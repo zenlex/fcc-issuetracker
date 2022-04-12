@@ -1,7 +1,7 @@
 # Issue Tracker API
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 *Project for Free Code Camp Quality Assurance and Advanced Node/Express certification - spec [here](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)*  
 
@@ -20,7 +20,7 @@
 **Status:** Required by default, optional for [documentation repositories](#definitions).
 - Fork/Clone repo
 - Run `npm install` to install dependencies 
-- Run `npm test` to run unit and integration tests (Jest)
+- Run `npm test` to run unit and integration tests (Mocha + Jest)
 - If `NODE_ENV=test` the test runner should also run the Free Code Camp automated tests against the project spec (FCC tests not included in repo)
 
 ### Usage
