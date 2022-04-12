@@ -43,7 +43,7 @@ Required fields:
  `DELETE /api/issues/{project}` - delete existing issue
  Required fields:
  - _id
- - 
+
 ### Contributing
 Not accepting PRs at this time. For questions, contact erich@zenlex.dev
 
